@@ -1,1 +1,0 @@
-1. Run the Setup file as Administrator | Customize the UI
